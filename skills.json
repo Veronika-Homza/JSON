@@ -1,0 +1,33 @@
+{
+    "soft_skills": [
+        "attentiveness",
+        "perseverance",
+        "sociability",
+        "responsibility",
+        "learnability"
+    ],
+    "hard_skills": [
+        {
+            "type": "web_testing_knowledge",
+            "skills": [
+                "the_Linux_command_line",
+                "bash_scripting_basics",
+                "API_testing_with_Postman",
+                "JS_basics",
+                "SQL_basics",
+                "Charles_and_Fiddler",
+                "load_testing_in_Jmeter",
+                "database_Postgres",
+                "database_Redis"
+            ]
+        },
+        {
+            "type": "mobile_testing_knowledge",
+            "skills": [
+                "working_with_Android_Studio",
+                "working_with_XCode",
+                "working_with_Charles_and_Fiddler"
+            ]
+        },
+    ]
+}
