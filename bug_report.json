@@ -1,1 +1,19 @@
-
+{
+    "BugId": 1,
+    "Title": "'Add Widget' button is not working",
+    "Severity": "Blocker",
+    "Priority": "High",
+    "Environment": [
+        "Nokia X20 Android 12",
+        "Samsung Galaxy A72 Android 11",
+        "Xiaomi Redmi Note 4 Android 7.0"
+    ],
+    "Precondition": "-",
+    "StepsToReproduce": [
+        "Install the application",
+        "Open the application",
+        "Click on the 'Add widget' button"
+    ],
+    "ActualResult": "When the 'Add widget' button is clicked nothing happens",
+    "ExpectedResult": "When the 'Add widget' button is clicked the widget is created"
+}
