@@ -8,25 +8,25 @@
     ],
     "hard_skills": [
         {
-            "type": "web_testing_knowledge",
+            "type": "web testing knowledge",
             "skills": [
-                "the_Linux_command_line",
-                "bash_scripting_basics",
-                "API_testing_with_Postman",
-                "JS_basics",
-                "SQL_basics",
-                "Charles_and_Fiddler",
-                "load_testing_in_Jmeter",
-                "database_Postgres",
-                "database_Redis"
+                "the Linux command line",
+                "bash scripting basics",
+                "API testing with Postman",
+                "JS basics",
+                "SQL basics",
+                "Charles and Fiddler",
+                "load testing in Jmeter",
+                "database Postgres",
+                "database Redis"
             ]
         },
         {
-            "type": "mobile_testing_knowledge",
+            "type": "mobile testing knowledge",
             "skills": [
-                "working_with_Android_Studio",
-                "working_with_XCode",
-                "working_with_Charles_and_Fiddler"
+                "Android Studio",
+                "XCode",
+                "Charles and Fiddler"
             ]
         },
     ]
